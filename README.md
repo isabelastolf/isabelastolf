@@ -1,6 +1,6 @@
 ## Olá! Me chamo Isabela ;)
 
-- 🌱 atualmente estudando Py e ciencia de dados - currently learning Py and data science
+- 🌱 atualmente estudando Python e ciencia de dados - currently learning Pyton and data science
 - 🌵 migrando da Arquitetura e Urbanismo - migrating from architecture and urbanism
 - 🧭 e-mail: stolf.isabela@gmail.com
 - ✨ ela/dela - she/her
